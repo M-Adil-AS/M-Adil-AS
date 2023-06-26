@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-adil-as&label=Profile%20views&color=0e75b6&style=flat" alt="m-adil-as" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-adil-as" alt="m-adil-as" /></a> </p>
-
 - 🌱 I’m currently learning **MERN, React Native, POSTGRES, Typescript**
 
 - 👯 I’m looking to collaborate on **Javascript packages or libraries**
