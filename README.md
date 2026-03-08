@@ -26,6 +26,13 @@
 <a href="https://www.hackerrank.com/madilas565" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="madilas565" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">📊 Github Stats:</h3>
+<p><img align="left" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=m-adil-as&layout=compact" alt="m-adil-as" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=m-adil-as&show_icons=true&locale=en" alt="m-adil-as" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-adil-as&" alt="m-adil-as" /></p>
+
 <h3 align="left">💻 Languages:</h3>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -87,10 +94,3 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-1C78C0?style=for-the-badge&logo=webpack&logoColor=white)   
-
-<h3 align="left">📊 Github Stats:</h3>
-<p><img align="left" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=m-adil-as&layout=compact" alt="m-adil-as" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=m-adil-as&show_icons=true&locale=en" alt="m-adil-as" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-adil-as&" alt="m-adil-as" /></p>
