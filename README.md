@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-adil-as&label=Profile%20views&color=0e75b6&style=flat" alt="m-adil-as" /> </p>
 
-- 🌱 I’m currently learning **MERN, React Native, POSTGRES, Typescript**
+- 🌱 Currently deepening my expertise in **Agentic AI, n8n automation, and cloud technologies**
 
-- 👯 I’m looking to collaborate on **Javascript packages or libraries**
+- 👯 I’m looking to collaborate on **open-source projects, developer utilities, and AI integrations and automations**
 
 - 👨‍💻 All of my projects are available at [https://m-adil-as.netlify.app/](https://m-adil-as.netlify.app/)
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **modern JavaScript/TypeScript full-stack development**
 
 - 📫 How to reach me **madilas565@gmail.com**
 
-- 📄 Know about my experiences [https://m-adil-as.netlify.app/files/adilCV.pdf](https://m-adil-as.netlify.app/files/adilCV.pdf)
+- 📄 Know about my experiences [https://m-adil-as.netlify.app/files/Resume.pdf](https://m-adil-as.netlify.app/files/Resume.pdf)
 
-- ⚡ Fun fact **Love to discuss conspiracy theories**
+- ⚡ Fun fact **I enjoy system design and software architecture**
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
