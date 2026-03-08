@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adil Ahmed</h1>
-<h3 align="center">A Full-Stack Software Engineer</h3>
+<h3 align="center">A Full-Stack Software Engineer building AI & Cloud Powered Web Apps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-adil-as&label=Profile%20views&color=0e75b6&style=flat" alt="m-adil-as" /> </p>
 
